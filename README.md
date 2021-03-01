@@ -17,3 +17,6 @@ Program ini menyelesaikan suatu permasalahan Topological Sort(prerequisite kulia
 Ronggur Mahendra Widya Putra 
 13519008
 K-01
+
+# Catatan
+Test/input9.txt ignored size too big
