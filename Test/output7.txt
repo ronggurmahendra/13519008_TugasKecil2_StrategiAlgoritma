@@ -1,0 +1,3 @@
+semester I : IF0003,IF0005,IF0007
+semester II : IF0000,IF0001
+semester III : IF0002,IF0004,IF0006
